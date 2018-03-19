@@ -31,7 +31,6 @@ public class zad2_2 {
          System.out.println(sl4.trim());//przycina o poprzedzające i nadmiarowe spacy
          System.out.println(sl1.toLowerCase());//zmienia na male litery
          System.out.println(sl1.toUpperCase());//zmienia na duze litery
-         System.out.println(sl1.)
          
   
                  
